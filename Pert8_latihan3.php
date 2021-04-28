@@ -7,7 +7,7 @@
 <body>
 <?php
 
-// nama : Muhammad Derio
+// nama : Nofian afrizal
 // Kelas : 06TPLE012
 
 function repeat($text, $num = 10)
